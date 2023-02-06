@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.gehaktbrood {
+    line-height: 36px;
+    font-size: 36px;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+    padding-top: 5px;
+
+}
