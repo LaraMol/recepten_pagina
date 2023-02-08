@@ -16,6 +16,23 @@ body {
     font-size: 36px;
     border-bottom: 1px solid black;
     padding-bottom: 15px;
-    padding-top: 5px;
+    padding-top: 7px;
+}
 
+.eerste-paragraaf {
+    line-height: 32px;
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+.Ingrediententitel {
+    line-height: 32px;
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.ingredienten {
+    line-height: 26px;
+    font-size:
 }
