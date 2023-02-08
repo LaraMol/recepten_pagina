@@ -30,6 +30,7 @@ body {
     font-size: 32px;
     font-weight: bold;
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .ingredienten {
@@ -42,6 +43,7 @@ body {
     font-size: 32px;
     font-weight: bold;
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .bereidingswijze {
@@ -58,12 +60,24 @@ body {
 }
 
 #img {
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 
 }
 
-.Tipscherm {
+.tip {
     background-color: #def6ed;
     padding: 25px;
     border-radius: 4px;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    width: 950px;
+}
+
+#tipboldness {
+    font-weight: bold;
+}
+
+.size {
+    font-size: 15px !important;
 }
