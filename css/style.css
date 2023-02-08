@@ -72,11 +72,35 @@ body {
     line-height: 26px;
     display: flex;
     width: 950px;
+    margin-bottom: 25px;
+}
+
+.tip1 {
+    background-color: #def6ed;
+    padding: 25px;
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    width: 480px;
+    margin-bottom: 25px;
+}
+
+.tip2 {
+    background-color: #def6ed;
+    padding: 25px;
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    width: 440px;
+    margin-bottom: 25px;
 }
 
 #tipboldness {
     font-weight: bold;
 }
+
 
 .size {
     font-size: 15px !important;
